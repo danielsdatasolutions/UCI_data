@@ -48,17 +48,29 @@ Entire numbers in code column of the mean_std_data replaced with corresponding a
 # Appropriately labels the data set with descriptive variable names
 
 code column in mean_std_data renamed into "activity"
+
 Every instance of "Acc" in column’s name replaced by "Accelerometer"
+
 Every instance of "Gyro" in column’s name replaced by "Gyroscope"
+
 Every instance of "BodyBody" in column’s name replaced by "Body"
+
 Every instance of "Mag" in column’s name replaced by "Magnitude"
+
 Every instance that starts with character "t" in column’s name replaced by "Time"
+
 Every instance that starts with character "f" in column’s name replaced by "Frequency"
+
 Every instance of "tBody" in column’s name replaced by "TimeBody"
+
 Every instance of "-mean" in column’s name replaced by "Mean"
+
 Every instance of "-std" in column’s name replaced by "STD"
+
 Every instance of "-freq" in column’s name replaced by "Frequency"
+
 Every instance of "angle" in column’s name replaced by "Angle"
+
 Every instance of "gravity" in column’s name replaced by "Gravity"
 
 
